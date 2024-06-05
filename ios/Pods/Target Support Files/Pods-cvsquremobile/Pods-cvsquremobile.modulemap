@@ -1,0 +1,6 @@
+module Pods_cvsquremobile {
+  umbrella header "Pods-cvsquremobile-umbrella.h"
+
+  export *
+  module * { export * }
+}
